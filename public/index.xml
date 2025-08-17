@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hi on Paul Grote</title>
-    <link>http://localhost:1313/</link>
+    <link>https://paulgrote.com/</link>
     <description>Recent content in hi on Paul Grote</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://paulgrote.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sample Work</title>
-      <link>http://localhost:1313/samples/</link>
+      <link>https://paulgrote.com/samples/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/samples/</guid>
+      <guid>https://paulgrote.com/samples/</guid>
       <description></description>
     </item>
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://paulgrote.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://paulgrote.com/cv/</guid>
       <description></description>
     </item>
   </channel>
