@@ -30,6 +30,7 @@ html_title = 'Paul Grote'
 html_theme = 'shibuya'
 html_static_path = ['_static']
 html_favicon = '_static/favicon-16x16.png'
+html_extra_path = ['robots.txt']
 html_theme_options = {
     "linkedin_url": "https://www.linkedin.com/in/paul-grote/",
     "github_url": "https://github.com/paulgrote",
